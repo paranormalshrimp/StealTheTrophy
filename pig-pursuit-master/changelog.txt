@@ -1,0 +1,40 @@
+changelog:
+
+9.29.2021:
+changed textures & sounds
+
+9.30.2021
+changed textures & sounds
+added "bucket button"
+fixed "reset game" button
+changed firing speed
+
+10.1.2021
+nothing
+
+10.2.2021
+changed textures
+rewrote level 2 partially
+
+10.3.2021
+rewrote level 2 partially
+
+10.4.2021
+rewrote level 2 partially
+
+10.15.2021
+rewrote level 1 partially
+
+10.17.2021
+rewrote level 1 partially
+added KillCount
+
+10.18.2021
+finished level 1 rewrite
+added trophy and added it to end of level 2
+changed bullet color
+
+10.20.2021
+Finished!
+
+
